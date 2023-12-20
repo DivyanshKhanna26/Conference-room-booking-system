@@ -1,0 +1,6 @@
+To Run the program, please run the main.py file.
+You would be asked to login please use the following admin credentials for the same - 
+    email - admin@gmail.com
+    password - qwerty
+
+After logging in you can create organzations and users from the admin menu.
